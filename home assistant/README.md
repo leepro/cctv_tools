@@ -22,4 +22,4 @@ views:
 
 ## Results
   
-  <img src="https://github.com/leepro/tapo_cctv/blob/main/screenshots/ha-dashboard.png?raw=true" width="800">
+  <img src="https://github.com/leepro/cctv_tools/blob/main/screenshots/ha-dashboard.png?raw=true" width="800">

@@ -5,7 +5,7 @@ Security Camera related tools and information
 ## Tested Cameras
 
 * Tapo C100
-  <img src="https://github.com/leepro/tapo_cctv/blob/main/screenshots/c100.jpg?raw=true" width="200">
+  <img src="https://github.com/leepro/cctv_tools/blob/main/screenshots/c100.jpg?raw=true" width="200">
 
 ## Tools
 
@@ -15,7 +15,7 @@ Security Camera related tools and information
     * merge streams using ffmpeg and feed
     * run a dockerized rtsp server
 
-  <img src="https://github.com/leepro/tapo_cctv/blob/main/screenshots/tapo_c100_merged_view.png?raw=true" width="800">
+  <img src="https://github.com/leepro/cctv_tools/blob/main/screenshots/tapo_c100_merged_view.png?raw=true" width="800">
 
 * Home Assistant
   * add device and view card
